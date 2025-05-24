@@ -28,7 +28,7 @@ I'm Aldara Fernández, a software engineering student at **42 Madrid** (Fundaci�
 * [Minishell](https://github.com/aldferna/MiniShell) - The Little Bash Queen 👑
 * [Philosophers](https://github.com/aldferna/Philosophers) - Multi-threads programming, no deaths allowed.
 * [Cub3D](https://github.com/aldferna/Cub3D) - Raycasting, mathematics and play, play, play! 🎮
-* NetPractice - *Coming soon* Networking exercise: IP addresses and subnet masks.
+* NetPractice - *Coming soon:* Networking exercise: IP addresses and subnet masks.
 
 **Phase 3**
 * CPP - *Coming soon:* C++ arrived!
