@@ -10,7 +10,7 @@ I'm Aldara Fernández, a software engineering student at **42 Madrid** (Fundaci�
 
 💻 Tools -  **GitHub, Bash, Linux/Unix, Vim, VSC, VirtualBox**  -  *Coming soon:* Docker, WordPress.
 
-🥰 Human Languages - Spanish (native), English (C1), Italian (B2), basic levels of French and Portuguese.
+🥰 Human Languages - Spanish (native), English (C1), Italian (B2), basic level of French and Portuguese.
 
 
 ## 42 Cursus
