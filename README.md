@@ -6,14 +6,14 @@ I'm Aldara Fernández, a software engineering student at **42 Madrid** (Fundaci�
   
 🌱 Future goals - Continue growing as a **software developer** and deepen my knowledge in **artificial intelligence** and **data analysis**.
 
-👯 Programming with - C, Shell, Makefile. *Coming soon:* C++, Phyton.
+👯 Programming with -  **C, Shell, Makefile**  -  *Coming soon:* C++, Phyton.
 
-💻 Tools - GitHub, Bash, Linux/Unix, Vim, VSC, VirtualBox. *Coming soon:* Docker, WordPress.
+💻 Tools -  **GitHub, Bash, Linux/Unix, Vim, VSC, VirtualBox**  -  *Coming soon:* Docker, WordPress.
 
 🥰 Human Languages - Spanish (native), English (C1), Italian (B2), basic levels of French and Portuguese.
 
 
-# 42 Cursus
+## 42 Cursus
 
 **Phase 1**
 * [Libft](https://github.com/aldferna/42Cursus_Functions) - My C library. A good start.
