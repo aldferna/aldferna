@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 🍝
 
 I'm Aldara Fernández, a software engineering student at **42 Madrid** (Fundación Telefónica), where I’m currently developing fascinating projects that are helping me expand my knowledge and skills in computer science.
 
