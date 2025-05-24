@@ -20,7 +20,7 @@ I'm Aldara Fernández, a software engineering student at **42 Madrid** (Fundaci�
 * [GNL](https://github.com/aldferna/42Cursus_Functions) - Get Next Line function. Line, by, line\n.
 * [Printf](https://github.com/aldferna/42Cursus_Functions) - A recreation of the original printf. Ready for receiving a variable number of arguments.
 * Born2beroot - A system administration project that focuses on setting up and securing a server (VirtualBox) running a Debian operating system. A computer inside my computer! 🤯
-* [Pipex](https://github.com/aldferna/Pipex) - Pipes, redirections, child processes and execution of commands. A great file descriptors labyrinth.
+* [Pipex](https://github.com/aldferna/Pipex) - Pipes, redirections, child processes and command executions. A great file descriptors labyrinth.
 * [FDF](https://github.com/aldferna/FDF) - 3D Wireframe graphics, you are invited to play and get lost in between those Bresenham's lines 🤩
 
 **Phase 2**
