@@ -31,10 +31,10 @@ I'm Aldara Fernández, a software engineering student at **42 Madrid** (Fundaci�
 * NetPractice - *Coming soon* Networking exercise: IP addresses and subnet masks.
 
 **Phase 3**
-* CPP - *Coming soon* C++ arrived!
-* Inception - *Coming soon* Docker arrived!
-* WebServer - *Coming soon* HTTP server from scratch!
-* Transcendence - *Coming soon* The graduation project in 42 🎉
+* CPP - *Coming soon:* C++ arrived!
+* Inception - *Coming soon:* Docker arrived!
+* WebServer - *Coming soon:* HTTP server from scratch!
+* Transcendence - *Coming soon:* The graduation project in 42 🎉
   
 <!--
 **aldferna/aldferna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
